@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+
+#main{
+    background-color: hsl(0, 0%, 75%);
+}
+
+#title {
+text-align: center;
+}
+
+#img-div{
+    text-align: center;
+    background-color: white;
+}
+#image{
+    max-width: 100%;
+}
+h3{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#tribute-info{
+    width: 800px;
+    margin: auto;
+}
+
+
+#tribute-info li {
+    padding: 10px;
+}
+#blockquote{
+    text-align: center;
+}
